@@ -20,6 +20,9 @@ html {
     box-sizing: inherit;
 }
 
+.ratlogo {
+    width: 100%;
+}
 
 .nav {
     padding: 0;
