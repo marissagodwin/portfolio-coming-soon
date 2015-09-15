@@ -62,3 +62,7 @@ html {
 .link { 
     font-family: 'Open Sans', sans-serif;
 }
+
+.foot {
+    background-color: #ccc;
+}
