@@ -99,3 +99,21 @@ html {
 .foot {
     background-color: #ccc;
 }
+
+.hide {
+        display: none;
+}
+
+.show {
+        display:inline;
+}
+
+@media only screen and (min-width: 38em) {
+
+.hide {
+        display: inline;
+}
+    
+.show {
+        display: none;
+}
