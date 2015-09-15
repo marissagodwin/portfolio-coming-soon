@@ -83,6 +83,11 @@ html {
     color: black;
 }
 
+.mail {
+    text-decoration: none;
+    color: #484848 ;  
+}
+
 .copy {
         text-align: center;
 }
