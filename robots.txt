@@ -1,3 +1,0 @@
-Sitemap: https://braticate.com/sitemap.xml
-
-User-Agent: *
